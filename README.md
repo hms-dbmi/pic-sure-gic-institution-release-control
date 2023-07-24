@@ -5,7 +5,5 @@ To update your instance of GIC PIC-SURE, follow the steps below:
 
 2. In Jenkins, run the "Check for updates" jobs. 
 
-4. Run the "Stop PIC-SURE" job.
-
-5. Run the "Start PIC-SURE" job. 
+3. Run the "Start PIC-SURE" job. (This job removes all of the Docker containers and then replaces them, essentially performing both the STOP and START PIC-SURE job.) 
 
