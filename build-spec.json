@@ -3,7 +3,7 @@
     {
       "project_name": "PIC-SURE-API Build",
       "project_job_git_key":"PSA",
-      "git_hash": "origin/common-area-uuid"
+      "git_hash": "origin/add-missing-agg-datasharing-logic"
     },{
       "project_name": "PIC-SURE-HPDS Build",
       "project_job_git_key":"PSH",
