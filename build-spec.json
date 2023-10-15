@@ -7,11 +7,11 @@
     },{
       "project_name": "PIC-SURE-HPDS Build",
       "project_job_git_key":"PSH",
-      "git_hash": "origin/bump-jackson"
+      "git_hash": "origin/release/0004"
     },{
       "project_name": "PIC-SURE Auth Micro-App Build",
       "project_job_git_key":"PSAMA",
-      "git_hash": "origin/bump-jackson"
+      "git_hash": "origin/release/0002"
     },{
       "project_name": "PIC-SURE Core Frontend", 
       "project_job_git_key":"PSHU",
