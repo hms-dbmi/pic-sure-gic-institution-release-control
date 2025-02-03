@@ -13,13 +13,21 @@
       "project_job_git_key":"PSAMA",
       "git_hash": "release"
     },{
-      "project_name": "PIC-SURE Core Frontend", 
-      "project_job_git_key":"PSHU",
+      "project_name": "PIC-SURE-Database-Migrations",
+      "project_job_git_key":"PSM",
+      "git_hash": "main"
+    },{
+      "project_name": "PIC-SURE-Frontend Build",
+      "project_job_git_key":"PSF",
       "git_hash": "release"
     },{
-      "project_name": "project-specific-ui",
-      "project_job_git_key":"PSU",
+      "project_name": "PIC-SURE Dictionary",
+      "project_job_git_key":"DICTIONARY",
       "git_hash": "release"
+    },{
+      "project_name": "PIC-SURE Dictionary ETL",
+      "project_job_git_key":"DICTIONARY_ETL",
+      "git_hash": "main"
     }
   ]
 }
