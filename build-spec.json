@@ -15,7 +15,7 @@
     },{
       "project_name": "PIC-SURE-Database-Migrations",
       "project_job_git_key":"PSM",
-      "git_hash": "origin/main"
+      "git_hash": "origin/fix-gic-migrations"
     },{
       "project_name": "PIC-SURE-Frontend Build",
       "project_job_git_key":"PSF",
