@@ -19,7 +19,7 @@
     },{
       "project_name": "project-specific-ui",
       "project_job_git_key":"PSU",
-      "git_hash": "v2.5.2"
+      "git_hash": "origin/patch"
     }
   ]
 }
