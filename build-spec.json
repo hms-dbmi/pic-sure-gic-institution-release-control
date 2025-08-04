@@ -19,19 +19,23 @@
     },{
       "project_name": "PIC-SURE-Frontend Build",
       "project_job_git_key":"PSF",
-      "git_hash": "v1.6.2-hotfix"
+      "git_hash": "origin/main"
     },{
       "project_name": "PIC-SURE Dictionary",
       "project_job_git_key":"DICTIONARY",
-      "git_hash": "v1.4.5"
+      "git_hash": "origin/ram-limits"
     },{
       "project_name": "PIC-SURE Dictionary ETL",
       "project_job_git_key":"DICTIONARY_ETL",
-      "git_hash": "origin/main"
+      "git_hash": "origin/gic-luke"
     },{
       "project_name": "PIC-SURE Uploader",
       "project_job_git_key":"UPLOADER",
       "git_hash": "origin/main"
+    },{
+      "project_name": "PIC-SURE Aggregate Resource",
+      "project_job_git_key":"AGGREGATE",
+      "git_hash": "origin/release"
     }
   ]
 }
