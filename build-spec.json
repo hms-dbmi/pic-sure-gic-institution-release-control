@@ -7,35 +7,31 @@
     },{
       "project_name": "PIC-SURE-HPDS Build",
       "project_job_git_key":"PSH",
-      "git_hash": "v4.7.6"
+      "git_hash": "main"
     },{
       "project_name": "PIC-SURE Auth Micro-App Build",
       "project_job_git_key":"PSAMA",
-      "git_hash": "v3.6.5"
+      "git_hash": "release"
     },{
       "project_name": "PIC-SURE-Database-Migrations",
       "project_job_git_key":"PSM",
-      "git_hash": "origin/main"
+      "git_hash": "main"
     },{
       "project_name": "PIC-SURE-Frontend Build",
       "project_job_git_key":"PSF",
-      "git_hash": "origin/main"
+      "git_hash": "main"
     },{
       "project_name": "PIC-SURE Dictionary",
       "project_job_git_key":"DICTIONARY",
-      "git_hash": "origin/ram-limits"
+      "git_hash": "main"
     },{
       "project_name": "PIC-SURE Dictionary ETL",
       "project_job_git_key":"DICTIONARY_ETL",
-      "git_hash": "origin/gic-luke"
-    },{
-      "project_name": "PIC-SURE Uploader",
-      "project_job_git_key":"UPLOADER",
-      "git_hash": "origin/main"
+      "git_hash": "main"
     },{
       "project_name": "PIC-SURE Aggregate Resource",
       "project_job_git_key":"AGGREGATE",
-      "git_hash": "origin/release"
+      "git_hash": "release"
     }
   ]
 }
