@@ -7,11 +7,11 @@
     },{
       "project_name": "PIC-SURE-HPDS Build",
       "project_job_git_key":"PSH",
-      "git_hash": "main"
+      "git_hash": "v4.7.6"
     },{
       "project_name": "PIC-SURE Auth Micro-App Build",
       "project_job_git_key":"PSAMA",
-      "git_hash": "release"
+      "git_hash": "v3.6.5"
     },{
       "project_name": "PIC-SURE-Database-Migrations",
       "project_job_git_key":"PSM",
@@ -31,7 +31,7 @@
     },{
       "project_name": "PIC-SURE Uploader",
       "project_job_git_key":"UPLOADER",
-      "git_hash": "origin/main"
+      "git_hash": "main"
     },{
       "project_name": "PIC-SURE Aggregate Resource",
       "project_job_git_key":"AGGREGATE",
