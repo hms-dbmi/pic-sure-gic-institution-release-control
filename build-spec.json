@@ -29,10 +29,6 @@
       "project_job_git_key":"DICTIONARY_ETL",
       "git_hash": "v1.0.2"
     },{
-      "project_name": "PIC-SURE Uploader",
-      "project_job_git_key":"UPLOADER",
-      "git_hash": "v1.2.5"
-    },{
       "project_name": "PIC-SURE Aggregate Resource",
       "project_job_git_key":"AGGREGATE",
       "git_hash": "v2.20.5"
