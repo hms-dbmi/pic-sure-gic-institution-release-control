@@ -100,7 +100,7 @@
         "icon": "fa-solid fa-magnifying-glass",
         "url": "/explorer",
         "btnText": "Start Exploring",
-        "isOpen": false,
+        "isOpen": true,
         "showIfLoggedIn": true
       },
       {
@@ -109,7 +109,7 @@
         "icon": "fa-solid fa-circle-info",
         "url": "/help",
         "btnText": "Go To Help Page",
-        "isOpen": false,
+        "isOpen": true,
         "showIfLoggedIn": true
       }
     ],
